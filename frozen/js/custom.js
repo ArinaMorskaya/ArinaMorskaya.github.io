@@ -56,7 +56,7 @@ for (let letter of letters) {
 }
 
 // TIMER
-let deadline = new Date('April 4, 2022');
+let deadline = new Date('June 28, 2022');
 
 let timer_days = document.querySelector('.timer-days');
 let timer_hours = document.querySelector('.timer-hours');
